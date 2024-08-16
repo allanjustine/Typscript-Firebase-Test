@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-size: 14px;
+  font-family: "Quicksand", sans-serif;
+}
+html,
+body {
+  background-color: rgb(203, 203, 203);
+}
